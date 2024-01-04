@@ -1,0 +1,5 @@
+/Users/mac/myMLApp/obj/Debug/net7.0/myMLApp.csproj.AssemblyReference.cache
+/Users/mac/myMLApp/obj/Debug/net7.0/myMLApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/myMLApp/obj/Debug/net7.0/myMLApp.AssemblyInfoInputs.cache
+/Users/mac/myMLApp/obj/Debug/net7.0/myMLApp.AssemblyInfo.cs
+/Users/mac/myMLApp/obj/Debug/net7.0/myMLApp.csproj.CoreCompileInputs.cache

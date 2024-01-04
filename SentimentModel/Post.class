@@ -1,0 +1,36 @@
+public class Post
+    {
+        private string? booknamn;        
+        public string? Booknamn
+        {
+            set {this.booknamn = value;}
+            get {return this.booknamn;}
+        }
+        
+        private string? omdome;        
+        public string? Omdome
+        {
+            set {this.omdome = value;}
+            get {return this.omdome;}
+        }
+
+        private string? recension;        
+        public string? Recension
+        {
+            set {this.recension = value;}
+            get {return this.recension;}
+        }
+          private string? forfattarenamn;        
+        public string? Forfattarenamn
+        {
+            set {this.forfattarenamn = value;}
+            get {return this.forfattarenamn;}
+        }
+           private string? visaresult;        
+        public string? Visaresult
+        {
+            set {this.visaresult = value;}
+            get {return this.visaresult;}
+        }
+
+    }
